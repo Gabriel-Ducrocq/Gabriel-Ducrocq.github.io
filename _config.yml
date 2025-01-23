@@ -22,13 +22,12 @@ repository               : "Gabriel-Ducrocq/Gabriel-Ducrocq.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Gabriel Ducrocq" 
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Linköping, Sweden"
+  employer         : "Linköping University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gabrielducrocq.maths@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
